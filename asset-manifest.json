@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Music-Lite/static/css/main.1c6cc986.css",
+    "main.js": "/Music-Lite/static/js/main.b0bbfdab.js",
+    "static/js/453.20404faf.chunk.js": "/Music-Lite/static/js/453.20404faf.chunk.js",
+    "index.html": "/Music-Lite/index.html",
+    "main.1c6cc986.css.map": "/Music-Lite/static/css/main.1c6cc986.css.map",
+    "main.b0bbfdab.js.map": "/Music-Lite/static/js/main.b0bbfdab.js.map",
+    "453.20404faf.chunk.js.map": "/Music-Lite/static/js/453.20404faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6cc986.css",
+    "static/js/main.b0bbfdab.js"
+  ]
+}
